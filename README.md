@@ -1,3 +1,6 @@
+# Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих [PDF]
+Автор:Адитья Бхаргава
+
 # Grokking Algorithms
 
 This is the code in my book [Grokking Algorithms](https://www.manning.com/bhargava).
